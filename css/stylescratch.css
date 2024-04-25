@@ -1,0 +1,49 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: aliceblue;
+    position: absolute;
+}
+
+.text-decoration {
+    text-decoration: underline;
+}
+
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a{
+    color: maroon;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.header{
+    Top: 5px;
+    Left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}
+
+.footer{
+    bottom: 15px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 30px;
+    color: #878787;
+    text-align: center;
+}
+
+.leftmenu{
+    top: 114px;
+    right:5px;
+    width: 100px;
+    bottom: 39px;
+}
